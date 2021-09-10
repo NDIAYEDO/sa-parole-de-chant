@@ -1,0 +1,148 @@
+body{
+    background-image: url("2021.jpg");
+    background-attachment: fixed;
+    background-image: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
+    overflow-y:hidden ;
+  }
+  hr{width: 48px;
+   margin-left: 150px;
+    margin-left: 85px;
+    margin-top: -1px;
+    padding: 2px;
+    background: #fff;
+
+
+  }
+  
+      .menu{
+        width: 100%;
+        overflow: auto;
+      }
+      .menu ul{
+        margin: 45;
+        padding: 0;
+        list-style: none;
+        line-height: 20px;
+      
+      }
+      .menu li{
+        float: left;
+      }
+      .menu ul li a{
+        text-decoration: none;
+        width: 130px;
+        color: white;
+        text-align: center;
+        display: block;
+        font-size: 15px;
+        font-family: sans-serif;
+        letter-spacing: 0,1px;
+        }
+        .menu li a:hover{
+            color: #fff;
+            opacity: 0,5;
+            font-size: 19px;
+        }
+      .search{
+          border-radius: 50px;
+          margin-left: 600px;
+          margin-top: -20px;
+
+      }
+        
+            .header {
+            color: white;
+            overflow: hidden;
+            height:100vh;
+            font-size: 25px;
+            font-family: sans-serif;
+        }
+        .header-content{
+            z-index: 1;
+            position: relative;
+
+        }
+        .header-content h1{
+            font-size: 70px;
+            font-family: sans-serif;
+            font-weight:"";
+            margin-top: 2%;
+            margin-left: 85px;
+            color: white;
+        }
+        .header-content p{
+            font-size: 15px;
+            margin: 20px 0 25px;
+            color: white;
+            letter-spacing: 1px;
+            font-weight: 100;
+            margin-top: -2%;
+            margin-left: 85px;
+            font-family: sans-serif;
+            }
+       .theme-btn{
+           border-radius: 20px;
+           background: #fff;
+           padding: 5px  15px;
+           min-width: 170px;
+           border: 2px solid white;
+           color: rgb(62, 59, 236);
+           font-size: 10px;
+           text-transform: uppercase;
+           display: inline-block;
+           text-align: center;
+           margin-right: 120px;
+           margin-left: 85px;
+           margin-top: -1%;
+           font-family: sans-serif;
+            }
+            h2{
+                font-family: sans-serif;
+                margin-left: 1065px;
+                margin-top: -60px;
+                font-size: 20px;
+                color: #fff;
+            }
+            .av{
+                font-family: sans-serif;
+                margin-left: 1105px;
+                margin-top: -20px;
+                color: #fff;
+               
+            }
+            .nov{
+                font-family: sans-serif;
+                margin-left: 1086px;
+                margin-top: -10px;
+                color: #fff;
+               
+            }
+            #lien a{
+                margin-top: -10px;
+                margin-left: 650px;
+                font-size: 25px;
+                color: white;
+            }
+            #twetter img{
+                margin-left: 85px;
+                width: 120px;
+                height: 15px;
+                margin-top: 100px;
+            }
+            #facebook img{
+                margin-left: 65px;
+                width: 120px;
+                height: 15px;
+                margin-top: -20px;
+            }
+            #instagram img{
+                margin-left: 65px;
+                width: 120px;
+                height: 15px;
+                margin-top: -20px;
+            }
+            
+            
